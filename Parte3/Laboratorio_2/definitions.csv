@@ -1,0 +1,105 @@
+﻿id;word;concreteness;specificity;definition
+1;music;abstract;generic;art composed of melodious sounds produced by various instruments, it can have different genres and also contain a vocal part
+2;ethic;abstract;specific;Philosophical thought aimed at explaining ideal human behavior, attempting to demonstrate what is right and what is wrong. It often depends on the historical period and sociocultural context.
+3;tree;concrete;generic;a plant with roots, trunk, branches and foliage used to obtain timber and produce paper
+4;teapot;concrete;specific;kitchen tool used to infuse tea leaves in boiling water, usually made of ceramic
+5;music;abstract;generic;A set of sounds made simultaneously by people and/or musical instruments.
+6;ethic;abstract;specific;Branch of philosophy that focuses on defining correct and incorrect human behavior.
+7;tree;concrete;generic;Plant, with different types and generic size, having leaves, branches, roots.
+8;teapot;concrete;specific;Metal container usually used for heating general liquids.
+9;music;abstract;generic;The group of every possibile musical notes combination, existing and not.      Those combination can be both perceived with auditory system and visual system.
+10;ethic;abstract;specific;Common sentiment according with every human being should act to improve his and others quality of life
+11;tree;concrete;generic;High and solid Kind of plant composed by a trunk covered in bark and a foliage Made by leaf.      It has roots that keep it anchored to the ground
+12;teapot;concrete;specific;Small container for liquids used to pour hot beverages in mugs and cups.      It is usually used to let decant and infuse leaves of tea.
+13;music;abstract;generic;Sound created by one or more musical instruments
+14;ethic;abstract;specific;philosophy or science that concern behaviors that are considered morally correct
+15;tree;concrete;generic;Living being that lives in the ground and is characterized by a trunk, branches, leaves and sometimes flowers or fruits
+16;teapot;concrete;specific;Tool used to make tea
+17;music;abstract;generic;a mixture of sounds, that can be made of  instrumental and lyrics. An instrumental sound can be composed by standard  instruments such as guitars, drums, keyboards, piano or even by orchestral ones such as violoncello or violin it  may or may not include some lyrics, that can be sung by a single person or multiple people or can even be represented as a speech.
+18;ethic;abstract;specific;philosophy’s branch that studies every behaviour. In particular, it distinguishes itself from politics and law, because it concentrates on action’s sphere and whether they’re good or bad and not already of the legally permitted or prohibited ones or of the more politically appropriate ones.
+19;tree;concrete;generic;plant made by a tunk, branches and leaves
+20;teapot;concrete;specific;recipient which has a pot-bellied shape with a handle beak and lid and contains tea on the inside
+21;music;abstract;generic;An organizations of sounds that can be made through specific instruments and/or human voices.
+22;ethic;abstract;specific;The philosophy that studies what are the right behaviours within human society
+23;tree;concrete;generic;A living organism that is rooted in the ground through roots, usually formed by a log, branches and leaves. These organisms gain their nutriment through photosynthesis.      Some of these organism can give fruits.
+24;teapot;concrete;specific;A container that can be used to store liquid tea and is usually used to pour tea into teacups.
+25;music;abstract;generic;sequence of sounds with the aim of triggering emotions in the human being
+26;ethic;abstract;specific;branch of philosophy that aims to ask whether certain behaviors are right or wrong
+27;tree;concrete;generic;woody plant with branches and leaves
+28;teapot;concrete;specific;container, often made of ceramic, which is intended to contain tea during serving and infusion
+29;music;abstract;generic;Sequence of sounds capable of arousing emotions in the listener
+30;ethic;abstract;specific;Moral principles learned by the society to which one belongs that define right and wrong
+31;tree;concrete;generic;Type of plant composed of roots, trunk, branches and leaves.
+32;teapot;concrete;specific;Container, normally made of ceramic, used to heat water and prepare tea. Also used for table setting.
+33;music;abstract;generic;Set of sounds and harmonies that are heard
+34;ethic;abstract;specific;Set of conventionally shared unwritten rules
+35;tree;concrete;generic;Organic component born from a seed, composed of roots, trunk, leaves and branches
+36;teapot;concrete;specific;Container useful for holding and pouring tee
+37;music;abstract;generic;sounds and noises produced by instruments following a rhythm to generate a composition.
+38;ethic;abstract;specific;set of moral rules that a person follows
+39;tree;concrete;generic;plant composed of a trunk and branches, of variable height, often producing fruit.
+40;teapot;concrete;specific;tool used to infuse herbs and spices to produce tea
+41;music;abstract;generic;A sound made using instruments thats usually considered beautiful and relaxing
+42;ethic;abstract;specific;This field of philosophy is a large research topic, this field deals with many world problems theoretically and trys to solve, centuries long, problems on what can be considered right or wrong.
+43;tree;concrete;generic;A usually thick and tall (depending on the region) woody type of plant, this plant is mostly covered in bark and fetures a bit ammount of roots and branches and leaves on the bottom and the top respectively. The age is based on the number of circles in the log
+44;teapot;concrete;specific;This type of kitchen tool is used to store, usually, really hot water with different kinds of dried leaves waiting to be poured in a countainer, it has an handle and a hole that help to pour the water
+45;music;abstract;generic;A set of rhythmic sounds often produced by percussion or string instruments, or created through their digital manipulation, often accompanied by one or more singers.
+46;ethic;abstract;specific;Human morality that varies according to specific contexts.
+47;tree;concrete;generic;Plant with a woody trunk and leaves
+48;teapot;concrete;specific;Container, usually made of ceramic or glass, used for serving tea or other infusions.
+49;music;abstract;generic;Composition of sounds that form a melody
+50;ethic;abstract;specific;Set of values and behaviours that regulates human behaviour
+51;tree;concrete;generic;Organism covered in bark, leaves that cover the branches and at the base it has roots situated under the dirt
+52;teapot;concrete;specific;Object used for serving thè
+53;music;abstract;generic;combination of sounds audible to humans
+54;ethic;abstract;specific;combination of written and non-written rules on which human interaction is based
+55;tree;concrete;generic;plant with roots, branches, trunk and leaves
+56;teapot;concrete;specific;tool used to prepare and hold tea, it is also used as home furnishings.
+57;music;abstract;generic;Set of sounds produced and arranged in a certain way to form a melody
+58;ethic;abstract;specific;Discipline that studies rules of behavior that respect morality and common sense
+59;tree;concrete;generic;Complex terrestrial plant characterized by a woody trunk and apical branches on which leaves grow
+60;teapot;concrete;specific;Ceramic or metal container used to hold or heat water for making tea
+61;music;abstract;generic;Pleasant concept where sounds go in harmony, brings together notes, time and metrics
+62;ethic;abstract;specific;The morals of people who define right behavior
+63;tree;concrete;generic;Plant composed of leaves, branches and bark, in which the sap flows inside it
+64;teapot;concrete;specific;Container for liquids, usually tea, used to pour it into cups
+65;music;abstract;generic;Sequence of sounds, eventually tuned, reproduced for artistic or entertainment purpose
+66;ethic;abstract;specific;Set of moral values adopted by the social context we live in
+67;tree;concrete;generic;Plant serveral years old, composed by a wooden log that usually splits into several branches. Depending on the season it might display flowers or leaves depending on the season
+68;teapot;concrete;specific;Small jug provided with lid, usually made of clay or metal, used to infuse the leaves before pouring the liquid into the cups
+69;music;abstract;generic;Set of sounds having a rhythm, used to dance or just listen.      Generally done using instruments.
+70;ethic;abstract;specific;Concept regarding base codes of conduct that humans should follow in relation to the world that surround them.
+71;tree;concrete;generic;Woody plant covered with cortex. Has  branches, roots and leaves, it does the photosynthesis.
+72;teapot;concrete;specific;Container of various sizes to store liquids, generally used to make tea and other infusions.
+73;music;abstract;generic;a sound produced by musical instruments, often accompanied by the voice.
+74;ethic;abstract;specific;It is a philosophical subject that studies human behavior in certain contexts to understand what is right and what is wrong.
+75;tree;concrete;generic;It is a plant that extends in height, with a woody trunk at the base, at the top it estende with branches which in turn are composed of leaves.
+76;teapot;concrete;specific;a container for making tea or herbal teas, slightly rounded in shape, with a handle, a lid, and an elongated spout.
+77;music;abstract;generic;Art that has no visual or tactile representation but seeks to express concepts through harmonies, allowing the listener to form their own mental or emotional associations.
+78;ethic;abstract;specific;A branch of philosophy that seeks to study human morality and the methods or criteria of judgement
+79;tree;concrete;generic;Understood as a living thing that sustains life by producing oxygen. It consists of a large vertical trunk rising from the ground, with roots at the base and a dense canopy of branches and leaves at the top.
+80;teapot;concrete;specific;A container of various shapes and materials, but featuring a spout, a handle and a lid. It is used to brew tea leaves or other ingredients.
+81;music;abstract;generic;A musical content is composed of a soundtrack and/or lyrics.
+82;ethic;abstract;specific;Includes moral principles that must be respected when making choices.
+83;tree;concrete;generic;Is a woody plant capable of growing in height and is made up of branches and leaves.
+84;teapot;concrete;specific;A container used mainly for infusions or herbal teas.
+85;music;abstract;generic;a succession of sounds, called musical notes, which, when heard in sequence, cause pleasure to the human ear. It is often divided into genres like rap, trap, reagetton, techno...
+86;ethic;abstract;specific;branch of philosophy that studies human behavior, and in particular analyzes what is right or wrong, and what collective behaviors lead to good or evil.
+87;tree;concrete;generic;a type of plant that generally have radix and branches with leaves.
+88;teapot;concrete;specific;a type of container with a lid, which is usually needed to serve tea or herbal tea.
+89;music;abstract;generic;An arrangement of artificial sounds that conveys feelings
+90;ethic;abstract;specific;A philosophy that humans pursue to behave in the most correct way based on the situation
+91;tree;concrete;generic;A type of plant that grows high and is made of hard wood and can present leaves and flowers.
+92;teapot;concrete;specific;A container used to boil water in order to make and pour tea.
+93;music;abstract;generic;Sounds that can be made by people or objects and are considered pleasant
+94;ethic;abstract;specific;Branch of philosophy that studies human behavior by trying to define what is right and what is wrong.
+95;tree;concrete;generic;Plant of generic dimensions, composed of branches, roots and leaves
+96;teapot;concrete;specific;Container usually used for containing and serving tea
+97;music;abstract;generic;Set of sounds
+98;ethic;abstract;specific;Moral behavior aimed at pursuing actions considered right in certain contexts
+99;tree;concrete;generic;"(Classical definition) A woody structure of variable height, with a more or less robust trunk and leaves at the ends of the branches. (Computer science definition) A data structure where each node has zero, one, or two children. If there are no children, the node is called a leaf; otherwise, it is part of a branch."
+100;teapot;concrete;specific;An object usually made of ceramic used to contain hot liquids
+101;music;abstract;generic;Harmonious composition of sound waves produced byanalog or digital instruments
+102;ethic;abstract;specific;Abstract concept that divides human behaviours into good and bad
+103;tree;concrete;generic;Natural element that produces fruits or flower depending on the species, according ti the season
+104;teapot;concrete;specific;object for holding drinks, such as hot tea, useful for serving it more comfortably

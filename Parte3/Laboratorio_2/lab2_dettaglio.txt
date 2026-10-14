@@ -1,0 +1,640 @@
+
+============================================================
+* MUSIC
+============================================================
+
+  - def 1: art composed of melodious sounds produced by various instruments, it can have different genres and also contain a vocal part
+    lemmi : ['art', 'composed', 'melodious', 'sound', 'produced', 'various', 'instrument', 'different', 'genre', 'also', 'contain', 'vocal', 'part']
+    genus : art
+    predizione_wn: cyberart.n.01                  predizione_sbert: musicianship.n.01              predizione_ibrido: abstractionism.n.01
+    score_wn: 0.11764705882352941 score_sbert: 0.581      score_ibrido: 0.8852
+
+  - def 2: A set of sounds made simultaneously by people and/or musical instruments.
+    lemmi : ['set', 'sound', 'made', 'simultaneously', 'people', 'andor', 'musical', 'instrument']
+    genus : set
+    predizione_wn: choir.n.02                     predizione_sbert: choir.n.02                     predizione_ibrido: choir.n.02
+    score_wn: 0.16666666666666666 score_sbert: 0.6422     score_ibrido: 1.0
+
+  - def 3: The group of every possibile musical notes combination, existing and not.      Those combination can be both perceived with auditory system and visual system.
+    lemmi : ['group', 'every', 'possibile', 'musical', 'note', 'combination', 'existing', 'combination', 'perceived', 'auditory', 'system', 'visual', 'system']
+    genus : group
+    predizione_wn: blind.n.01                     predizione_sbert: musical_organization.n.01      predizione_ibrido: blind.n.01
+    score_wn: 0.13333333333333333 score_sbert: 0.4446     score_ibrido: 0.8573
+
+  - def 4: Sound created by one or more musical instruments
+    lemmi : ['sound', 'created', 'one', 'musical', 'instrument']
+    genus : sound
+    predizione_wn: tootle.n.01                    predizione_sbert: music.n.04                     predizione_ibrido: music.n.04
+    score_wn: 0.42857142857142855 score_sbert: 0.7666     score_ibrido: 0.9111
+
+  - def 5: a mixture of sounds, that can be made of  instrumental and lyrics. An instrumental sound can be composed by standard  instruments such as guitars, drums, keyboards, piano or even by orchestral ones such as violoncello or violin it  may or may not include some lyrics, that can be sung by a single person or multiple people or can even be represented as a speech.
+    lemmi : ['mixture', 'sound', 'made', 'instrumental', 'lyric', 'instrumental', 'sound', 'composed', 'standard', 'instrument', 'guitar', 'drum', 'keyboard', 'piano', 'even', 'orchestral', 'one', 'violoncello', 'violin', 'may', 'may', 'include', 'lyric', 'sung', 'single', 'person', 'multiple', 'people', 'even', 'represented', 'speech']
+    genus : mixture
+    predizione_wn: misch_metal.n.01               predizione_sbert: solid_solution.n.01            predizione_ibrido: mechanical_mixture.n.01
+    score_wn: 0.06666666666666667 score_sbert: 0.3809     score_ibrido: 0.7434
+
+  - def 6: An organizations of sounds that can be made through specific instruments and/or human voices.
+    lemmi : ['organization', 'sound', 'made', 'specific', 'instrument', 'andor', 'human', 'voice']
+    genus : organization
+    predizione_wn: institution.n.01               predizione_sbert: musical_organization.n.01      predizione_ibrido: musical_organization.n.01
+    score_wn: 0.18181818181818182 score_sbert: 0.6754     score_ibrido: 0.8
+
+  - def 7: sequence of sounds with the aim of triggering emotions in the human being
+    lemmi : ['sequence', 'sound', 'aim', 'triggering', 'emotion', 'human']
+    genus : sequence
+    predizione_wn: run.n.15                       predizione_sbert: string_of_words.n.01           predizione_ibrido: string_of_words.n.01
+    score_wn: 0.125      score_sbert: 0.3551     score_ibrido: 0.92
+
+  - def 8: Sequence of sounds capable of arousing emotions in the listener
+    lemmi : ['sequence', 'sound', 'capable', 'arousing', 'emotion', 'listener']
+    genus : sequence
+    predizione_wn: run.n.15                       predizione_sbert: string_of_words.n.01           predizione_ibrido: string_of_words.n.01
+    score_wn: 0.125      score_sbert: 0.4126     score_ibrido: 0.92
+
+  - def 9: Set of sounds and harmonies that are heard
+    lemmi : ['set', 'sound', 'harmony', 'heard']
+    genus : set
+    predizione_wn: score.n.04                     predizione_sbert: choir.n.02                     predizione_ibrido: synset.n.01
+    score_wn: 0.16666666666666666 score_sbert: 0.4497     score_ibrido: 0.8622
+
+  - def 10: sounds and noises produced by instruments following a rhythm to generate a composition.
+    lemmi : ['sound', 'noise', 'produced', 'instrument', 'following', 'rhythm', 'generate', 'composition']
+    genus : sound
+    predizione_wn: music.n.04                     predizione_sbert: music.n.04                     predizione_ibrido: music.n.04
+    score_wn: 0.25       score_sbert: 0.7438     score_ibrido: 1.0
+
+  - def 11: A sound made using instruments thats usually considered beautiful and relaxing
+    lemmi : ['sound', 'made', 'using', 'instrument', 'thats', 'usually', 'considered', 'beautiful', 'relaxing']
+    genus : sound
+    predizione_wn: bark.n.04                      predizione_sbert: tootle.n.01                    predizione_ibrido: tootle.n.01
+    score_wn: 0.2        score_sbert: 0.6791     score_ibrido: 0.9333
+
+  - def 12: A set of rhythmic sounds often produced by percussion or string instruments, or created through their digital manipulation, often accompanied by one or more singers.
+    lemmi : ['set', 'rhythmic', 'sound', 'often', 'produced', 'percussion', 'string', 'instrument', 'created', 'digital', 'manipulation', 'often', 'accompanied', 'one', 'singer']
+    genus : set
+    predizione_wn: synset.n.01                    predizione_sbert: choir.n.02                     predizione_ibrido: choir.n.02
+    score_wn: 0.13333333333333333 score_sbert: 0.475      score_ibrido: 0.7579
+
+  - def 13: Composition of sounds that form a melody
+    lemmi : ['composition', 'sound', 'form', 'melody']
+    genus : composition
+    predizione_wn: sheet_music.n.01               predizione_sbert: fantasia.n.01                  predizione_ibrido: sheet_music.n.01
+    score_wn: 0.2857142857142857 score_sbert: 0.69       score_ibrido: 0.9863
+
+  - def 14: combination of sounds audible to humans
+    lemmi : ['combination', 'sound', 'audible', 'human']
+    genus : combination
+    predizione_wn: babel.n.02                     predizione_sbert: babel.n.02                     predizione_ibrido: babel.n.02
+    score_wn: 0.16666666666666666 score_sbert: 0.6234     score_ibrido: 1.0
+
+  - def 15: Set of sounds produced and arranged in a certain way to form a melody
+    lemmi : ['set', 'sound', 'produced', 'arranged', 'certain', 'way', 'form', 'melody']
+    genus : set
+    predizione_wn: conjugation.n.03               predizione_sbert: choir.n.02                     predizione_ibrido: conjugation.n.03
+    score_wn: 0.18181818181818182 score_sbert: 0.4652     score_ibrido: 0.7456
+
+  - def 16: Pleasant concept where sounds go in harmony, brings together notes, time and metrics
+    lemmi : ['pleasant', 'concept', 'sound', 'go', 'harmony', 'brings', 'together', 'note', 'time', 'metric']
+    genus : concept
+    predizione_wn: conceptualization.n.02         predizione_sbert: attraction.n.04                predizione_ibrido: conceptualization.n.02
+    score_wn: 0.09090909090909091 score_sbert: 0.4054     score_ibrido: 0.9148
+
+  - def 17: Sequence of sounds, eventually tuned, reproduced for artistic or entertainment purpose
+    lemmi : ['sequence', 'sound', 'eventually', 'tuned', 'reproduced', 'artistic', 'entertainment', 'purpose']
+    genus : sequence
+    predizione_wn: run.n.15                       predizione_sbert: rotation.n.04                  predizione_ibrido: rotation.n.04
+    score_wn: 0.1        score_sbert: 0.3864     score_ibrido: 0.9077
+
+  - def 18: Set of sounds having a rhythm, used to dance or just listen.      Generally done using instruments.
+    lemmi : ['set', 'sound', 'rhythm', 'used', 'dance', 'listen', 'generally', 'done', 'using', 'instrument']
+    genus : set
+    predizione_wn: manicure_set.n.01              predizione_sbert: choir.n.02                     predizione_ibrido: transmitter.n.03
+    score_wn: 0.16666666666666666 score_sbert: 0.4822     score_ibrido: 0.881
+
+  - def 19: a sound produced by musical instruments, often accompanied by the voice.
+    lemmi : ['sound', 'produced', 'musical', 'instrument', 'often', 'accompanied', 'voice']
+    genus : sound
+    predizione_wn: music.n.04                     predizione_sbert: music.n.04                     predizione_ibrido: music.n.04
+    score_wn: 0.4        score_sbert: 0.8145     score_ibrido: 1.0
+
+  - def 20: Art that has no visual or tactile representation but seeks to express concepts through harmonies, allowing the listener to form their own mental or emotional associations.
+    lemmi : ['art', 'visual', 'tactile', 'representation', 'seek', 'express', 'concept', 'harmony', 'allowing', 'listener', 'form', 'mental', 'emotional', 'association']
+    genus : art
+    predizione_wn: scene.n.08                     predizione_sbert: primitivism.n.02               predizione_ibrido: scene.n.08
+    score_wn: 0.16666666666666666 score_sbert: 0.5827     score_ibrido: 0.949
+
+  - def 21: A musical content is composed of a soundtrack and/or lyrics.
+    lemmi : ['musical', 'content', 'composed', 'soundtrack', 'andor', 'lyric']
+    genus : musical
+    predizione_wn: nan                            predizione_sbert: nan                            predizione_ibrido: nan
+    score_wn: nan        score_sbert: nan        score_ibrido: nan
+
+  - def 22: a succession of sounds, called musical notes, which, when heard in sequence, cause pleasure to the human ear. It is often divided into genres like rap, trap, reagetton, techno...
+    lemmi : ['succession', 'sound', 'called', 'musical', 'note', 'heard', 'sequence', 'cause', 'pleasure', 'human', 'ear', 'often', 'divided', 'genre', 'like', 'rap', 'trap', 'reagetton', 'techno']
+    genus : succession
+    predizione_wn: parade.n.02                    predizione_sbert: rotation.n.04                  predizione_ibrido: parade.n.02
+    score_wn: 0.08695652173913043 score_sbert: 0.2857     score_ibrido: 0.8367
+
+  - def 23: An arrangement of artificial sounds that conveys feelings
+    lemmi : ['arrangement', 'artificial', 'sound', 'conveys', 'feeling']
+    genus : arrangement
+    predizione_wn: contrivance.n.04               predizione_sbert: orchestration.n.02             predizione_ibrido: contrivance.n.04
+    score_wn: 0.18181818181818182 score_sbert: 0.4683     score_ibrido: 0.9864
+
+  - def 24: Sounds that can be made by people or objects and are considered pleasant
+    lemmi : ['sound', 'made', 'people', 'object', 'considered', 'pleasant']
+    genus : sound
+    predizione_wn: thump.n.01                     predizione_sbert: noise.n.01                     predizione_ibrido: thump.n.01
+    score_wn: 0.3333333333333333 score_sbert: 0.7257     score_ibrido: 0.899
+
+  - def 25: Set of sounds
+    lemmi : ['set', 'sound']
+    genus : set
+    predizione_wn: score.n.04                     predizione_sbert: choir.n.02                     predizione_ibrido: threescore.n.01
+    score_wn: 0.25       score_sbert: 0.4477     score_ibrido: 0.9407
+
+  - def 26: Harmonious composition of sound waves produced byanalog or digital instruments
+    lemmi : ['harmonious', 'composition', 'sound', 'wave', 'produced', 'byanalog', 'digital', 'instrument']
+    genus : composition
+    predizione_wn: solo.n.02                      predizione_sbert: instrumentation.n.03           predizione_ibrido: etude.n.01
+    score_wn: 0.15384615384615385 score_sbert: 0.4855     score_ibrido: 0.9252
+
+============================================================
+* ETHIC
+============================================================
+
+  - def 1: Philosophical thought aimed at explaining ideal human behavior, attempting to demonstrate what is right and what is wrong. It often depends on the historical period and sociocultural context.
+    lemmi : ['philosophical', 'thought', 'aimed', 'explaining', 'ideal', 'human', 'behavior', 'attempting', 'demonstrate', 'right', 'wrong', 'often', 'depends', 'historical', 'period', 'sociocultural', 'context']
+    genus : thought
+    predizione_wn: mens_rea.n.01                  predizione_sbert: criterion.n.02                 predizione_ibrido: mens_rea.n.01
+    score_wn: 0.06666666666666667 score_sbert: 0.5375     score_ibrido: 0.9026
+
+  - def 2: Branch of philosophy that focuses on defining correct and incorrect human behavior.
+    lemmi : ['branch', 'philosophy', 'focus', 'defining', 'correct', 'incorrect', 'human', 'behavior']
+    genus : branch
+    predizione_wn: bifurcation.n.01               predizione_sbert: judicial_branch.n.01           predizione_ibrido: judicial_branch.n.01
+    score_wn: 0.1        score_sbert: 0.3212     score_ibrido: 0.8857
+
+  - def 3: Common sentiment according with every human being should act to improve his and others quality of life
+    lemmi : ['common', 'sentiment', 'according', 'every', 'human', 'act', 'improve', 'others', 'quality', 'life']
+    genus : common
+    predizione_wn: theme_park.n.01                predizione_sbert: theme_park.n.01                predizione_ibrido: theme_park.n.01
+    score_wn: 0.0        score_sbert: 0.0835     score_ibrido: 0.8
+
+  - def 4: philosophy or science that concern behaviors that are considered morally correct
+    lemmi : ['philosophy', 'science', 'concern', 'behavior', 'considered', 'morally', 'correct']
+    genus : philosophy
+    predizione_wn: aristotelianism.n.01           predizione_sbert: prescriptivism.n.01            predizione_ibrido: prescriptivism.n.01
+    score_wn: 0.13333333333333333 score_sbert: 0.6951     score_ibrido: 0.8
+
+  - def 5: philosophy’s branch that studies every behaviour. In particular, it distinguishes itself from politics and law, because it concentrates on action’s sphere and whether they’re good or bad and not already of the legally permitted or prohibited ones or of the more politically appropriate ones.
+    lemmi : ['philosophy', 'branch', 'study', 'every', 'behaviour', 'particular', 'distinguishes', 'politics', 'law', 'concentrate', 'action', 'sphere', 'whether', 'theyre', 'good', 'bad', 'already', 'legally', 'permitted', 'prohibited', 'one', 'politically', 'appropriate', 'one']
+    genus : philosophy
+    predizione_wn: patent_law.n.01                predizione_sbert: jurisprudence.n.01             predizione_ibrido: jurisprudence.n.01
+    score_wn: 0.11538461538461539 score_sbert: 0.7164     score_ibrido: 0.9586
+
+  - def 6: The philosophy that studies what are the right behaviours within human society
+    lemmi : ['philosophy', 'study', 'right', 'behaviour', 'within', 'human', 'society']
+    genus : philosophy
+    predizione_wn: contract_law.n.01              predizione_sbert: prescriptivism.n.01            predizione_ibrido: ethics.n.02
+    score_wn: 0.15384615384615385 score_sbert: 0.5991     score_ibrido: 0.7704
+
+  - def 7: branch of philosophy that aims to ask whether certain behaviors are right or wrong
+    lemmi : ['branch', 'philosophy', 'aim', 'ask', 'whether', 'certain', 'behavior', 'right', 'wrong']
+    genus : branch
+    predizione_wn: bifurcation.n.01               predizione_sbert: legislative_branch.n.01        predizione_ibrido: bifurcation.n.01
+    score_wn: 0.09090909090909091 score_sbert: 0.2869     score_ibrido: 0.9747
+
+  - def 8: Moral principles learned by the society to which one belongs that define right and wrong
+    lemmi : ['moral', 'principle', 'learned', 'society', 'one', 'belongs', 'define', 'right', 'wrong']
+    genus : moral
+    predizione_wn: nan                            predizione_sbert: nan                            predizione_ibrido: nan
+    score_wn: nan        score_sbert: nan        score_ibrido: nan
+
+  - def 9: Set of conventionally shared unwritten rules
+    lemmi : ['set', 'conventionally', 'shared', 'unwritten', 'rule']
+    genus : set
+    predizione_wn: score.n.04                     predizione_sbert: mathematical_space.n.01        predizione_ibrido: intersection.n.04
+    score_wn: 0.14285714285714285 score_sbert: 0.3376     score_ibrido: 0.9311
+
+  - def 10: set of moral rules that a person follows
+    lemmi : ['set', 'moral', 'rule', 'person', 'follows']
+    genus : set
+    predizione_wn: score.n.04                     predizione_sbert: clique.n.01                    predizione_ibrido: four_hundred.n.01
+    score_wn: 0.14285714285714285 score_sbert: 0.355      score_ibrido: 0.8502
+
+  - def 11: This field of philosophy is a large research topic, this field deals with many world problems theoretically and trys to solve, centuries long, problems on what can be considered right or wrong.
+    lemmi : ['field', 'philosophy', 'large', 'research', 'topic', 'field', 'deal', 'many', 'world', 'problem', 'theoretically', 'try', 'solve', 'century', 'long', 'problem', 'considered', 'right', 'wrong']
+    genus : field
+    predizione_wn: frontier.n.03                  predizione_sbert: cognitive_science.n.01         predizione_ibrido: frontier.n.03
+    score_wn: 0.14285714285714285 score_sbert: 0.4659     score_ibrido: 0.8869
+
+  - def 12: Human morality that varies according to specific contexts.
+    lemmi : ['human', 'morality', 'varies', 'according', 'specific', 'context']
+    genus : human
+    predizione_wn: world.n.08                     predizione_sbert: world.n.08                     predizione_ibrido: world.n.08
+    score_wn: 0.1111111111111111 score_sbert: 0.2502     score_ibrido: 1.0
+
+  - def 13: Set of values and behaviours that regulates human behaviour
+    lemmi : ['set', 'value', 'behaviour', 'regulates', 'human', 'behaviour']
+    genus : set
+    predizione_wn: domain.n.03                    predizione_sbert: image.n.07                     predizione_ibrido: image.n.07
+    score_wn: 0.2        score_sbert: 0.4415     score_ibrido: 1.0
+
+  - def 14: combination of written and non-written rules on which human interaction is based
+    lemmi : ['combination', 'written', 'nonwritten', 'rule', 'human', 'interaction', 'based']
+    genus : combination
+    predizione_wn: color_scheme.n.01              predizione_sbert: mix.n.03                       predizione_ibrido: complexion.n.02
+    score_wn: 0.1111111111111111 score_sbert: 0.2565     score_ibrido: 0.854
+
+  - def 15: Discipline that studies rules of behavior that respect morality and common sense
+    lemmi : ['discipline', 'study', 'rule', 'behavior', 'respect', 'morality', 'common', 'sense']
+    genus : discipline
+    predizione_wn: ethics.n.02                    predizione_sbert: ethics.n.02                    predizione_ibrido: ethics.n.02
+    score_wn: 0.18181818181818182 score_sbert: 0.6137     score_ibrido: 1.0
+
+  - def 16: The morals of people who define right behavior
+    lemmi : ['moral', 'people', 'define', 'right', 'behavior']
+    genus : moral
+    predizione_wn: nan                            predizione_sbert: nan                            predizione_ibrido: nan
+    score_wn: nan        score_sbert: nan        score_ibrido: nan
+
+  - def 17: Set of moral values adopted by the social context we live in
+    lemmi : ['set', 'moral', 'value', 'adopted', 'social', 'context', 'live']
+    genus : set
+    predizione_wn: four_hundred.n.01              predizione_sbert: four_hundred.n.01              predizione_ibrido: four_hundred.n.01
+    score_wn: 0.2222222222222222 score_sbert: 0.4516     score_ibrido: 1.0
+
+  - def 18: Concept regarding base codes of conduct that humans should follow in relation to the world that surround them.
+    lemmi : ['concept', 'regarding', 'base', 'code', 'conduct', 'human', 'follow', 'relation', 'world', 'surround']
+    genus : concept
+    predizione_wn: law.n.03                       predizione_sbert: law.n.03                       predizione_ibrido: law.n.03
+    score_wn: 0.1111111111111111 score_sbert: 0.649      score_ibrido: 1.0
+
+  - def 19: It is a philosophical subject that studies human behavior in certain contexts to understand what is right and what is wrong.
+    lemmi : ['philosophical', 'subject', 'study', 'human', 'behavior', 'certain', 'context', 'understand', 'right', 'wrong']
+    genus : subject
+    predizione_wn: area.n.02                      predizione_sbert: blind_spot.n.01                predizione_ibrido: area.n.02
+    score_wn: 0.2        score_sbert: 0.5758     score_ibrido: 0.9233
+
+  - def 20: A branch of philosophy that seeks to study human morality and the methods or criteria of judgement
+    lemmi : ['branch', 'philosophy', 'seek', 'study', 'human', 'morality', 'method', 'criterion', 'judgement']
+    genus : branch
+    predizione_wn: bifurcation.n.01               predizione_sbert: judicial_branch.n.01           predizione_ibrido: judicial_branch.n.01
+    score_wn: 0.09090909090909091 score_sbert: 0.3223     score_ibrido: 0.8933
+
+  - def 21: Includes moral principles that must be respected when making choices.
+    lemmi : ['includes', 'moral', 'principle', 'must', 'respected', 'making', 'choice']
+    genus : moral
+    predizione_wn: nan                            predizione_sbert: nan                            predizione_ibrido: nan
+    score_wn: nan        score_sbert: nan        score_ibrido: nan
+
+  - def 22: branch of philosophy that studies human behavior, and in particular analyzes what is right or wrong, and what collective behaviors lead to good or evil.
+    lemmi : ['branch', 'philosophy', 'study', 'human', 'behavior', 'particular', 'analyzes', 'right', 'wrong', 'collective', 'behavior', 'lead', 'good', 'evil']
+    genus : branch
+    predizione_wn: bifurcation.n.01               predizione_sbert: judicial_branch.n.01           predizione_ibrido: judicial_branch.n.01
+    score_wn: 0.06666666666666667 score_sbert: 0.3377     score_ibrido: 0.9158
+
+  - def 23: A philosophy that humans pursue to behave in the most correct way based on the situation
+    lemmi : ['philosophy', 'human', 'pursue', 'behave', 'correct', 'way', 'based', 'situation']
+    genus : philosophy
+    predizione_wn: relativism.n.01                predizione_sbert: relativism.n.01                predizione_ibrido: relativism.n.01
+    score_wn: 0.13333333333333333 score_sbert: 0.5883     score_ibrido: 1.0
+
+  - def 24: Branch of philosophy that studies human behavior by trying to define what is right and what is wrong.
+    lemmi : ['branch', 'philosophy', 'study', 'human', 'behavior', 'trying', 'define', 'right', 'wrong']
+    genus : branch
+    predizione_wn: bifurcation.n.01               predizione_sbert: judicial_branch.n.01           predizione_ibrido: judicial_branch.n.01
+    score_wn: 0.09090909090909091 score_sbert: 0.3226     score_ibrido: 0.8933
+
+  - def 25: Moral behavior aimed at pursuing actions considered right in certain contexts
+    lemmi : ['moral', 'behavior', 'aimed', 'pursuing', 'action', 'considered', 'right', 'certain', 'context']
+    genus : moral
+    predizione_wn: nan                            predizione_sbert: nan                            predizione_ibrido: nan
+    score_wn: nan        score_sbert: nan        score_ibrido: nan
+
+  - def 26: Abstract concept that divides human behaviours into good and bad
+    lemmi : ['abstract', 'concept', 'divide', 'human', 'behaviour', 'good', 'bad']
+    genus : abstract
+    predizione_wn: brief.n.02                     predizione_sbert: right.n.01                     predizione_ibrido: epitome.n.02
+    score_wn: 0.1        score_sbert: 0.3573     score_ibrido: 0.9401
+
+============================================================
+* TREE
+============================================================
+
+  - def 1: a plant with roots, trunk, branches and foliage used to obtain timber and produce paper
+    lemmi : ['plant', 'root', 'trunk', 'branch', 'foliage', 'used', 'obtain', 'timber', 'produce', 'paper']
+    genus : plant
+    predizione_wn: cultivated_plant.n.01          predizione_sbert: woody_plant.n.01               predizione_ibrido: cultivated_plant.n.01
+    score_wn: 0.18181818181818182 score_sbert: 0.5677     score_ibrido: 0.8872
+
+  - def 2: Plant, with different types and generic size, having leaves, branches, roots.
+    lemmi : ['plant', 'different', 'type', 'generic', 'size', 'leaf', 'branch', 'root']
+    genus : plant
+    predizione_wn: parsnip.n.02                   predizione_sbert: cultivar.n.01                  predizione_ibrido: indian_plantain.n.01
+    score_wn: 0.18181818181818182 score_sbert: 0.6736     score_ibrido: 0.8272
+
+  - def 3: High and solid Kind of plant composed by a trunk covered in bark and a foliage Made by leaf.      It has roots that keep it anchored to the ground
+    lemmi : ['high', 'solid', 'kind', 'plant', 'composed', 'trunk', 'covered', 'bark', 'foliage', 'made', 'leaf', 'root', 'keep', 'anchored', 'ground']
+    genus : high
+    predizione_wn: overdrive.n.02                 predizione_sbert: overdrive.n.02                 predizione_ibrido: overdrive.n.02
+    score_wn: 0.043478260869565216 score_sbert: 0.1161     score_ibrido: 0.5
+
+  - def 4: Living being that lives in the ground and is characterized by a trunk, branches, leaves and sometimes flowers or fruits
+    lemmi : ['living', 'life', 'ground', 'characterized', 'trunk', 'branch', 'leaf', 'sometimes', 'flower', 'fruit']
+    genus : living
+    predizione_wn: eternal_life.n.01              predizione_sbert: skin.n.04                      predizione_ibrido: skin.n.04
+    score_wn: 0.07692307692307693 score_sbert: 0.3742     score_ibrido: 1.0
+
+  - def 5: plant made by a tunk, branches and leaves
+    lemmi : ['plant', 'made', 'tunk', 'branch', 'leaf']
+    genus : plant
+    predizione_wn: distillery.n.01                predizione_sbert: aeschynanthus.n.01             predizione_ibrido: flowering_maple.n.01
+    score_wn: 0.2222222222222222 score_sbert: 0.5184     score_ibrido: 0.9272
+
+  - def 6: A living organism that is rooted in the ground through roots, usually formed by a log, branches and leaves. These organisms gain their nutriment through photosynthesis.      Some of these organism can give fruits.
+    lemmi : ['living', 'organism', 'rooted', 'ground', 'root', 'usually', 'formed', 'log', 'branch', 'leaf', 'organism', 'gain', 'nutriment', 'photosynthesis', 'organism', 'give', 'fruit']
+    genus : living
+    predizione_wn: comforts.n.01                  predizione_sbert: meal_ticket.n.01               predizione_ibrido: meal_ticket.n.01
+    score_wn: 0.0        score_sbert: 0.3313     score_ibrido: 0.8
+
+  - def 7: woody plant with branches and leaves
+    lemmi : ['woody', 'plant', 'branch', 'leaf']
+    genus : plant
+    predizione_wn: bignoniad.n.01                 predizione_sbert: tree.n.01                      predizione_ibrido: bignoniad.n.01
+    score_wn: 0.3333333333333333 score_sbert: 0.6491     score_ibrido: 0.9302
+
+  - def 8: Type of plant composed of roots, trunk, branches and leaves.
+    lemmi : ['type', 'plant', 'composed', 'root', 'trunk', 'branch', 'leaf']
+    genus : type
+    predizione_wn: breed.n.02                     predizione_sbert: nature.n.05                    predizione_ibrido: nature.n.05
+    score_wn: 0.125      score_sbert: 0.3946     score_ibrido: 0.9556
+
+  - def 9: Organic component born from a seed, composed of roots, trunk, leaves and branches
+    lemmi : ['organic', 'component', 'born', 'seed', 'composed', 'root', 'trunk', 'leaf', 'branch']
+    genus : organic
+    predizione_wn: neem_cake.n.01                 predizione_sbert: manure.n.01                    predizione_ibrido: neem_cake.n.01
+    score_wn: 0.07692307692307693 score_sbert: 0.4057     score_ibrido: 0.6559
+
+  - def 10: plant composed of a trunk and branches, of variable height, often producing fruit.
+    lemmi : ['plant', 'composed', 'trunk', 'branch', 'variable', 'height', 'often', 'producing', 'fruit']
+    genus : plant
+    predizione_wn: monocarp.n.01                  predizione_sbert: cultivar.n.01                  predizione_ibrido: monocarp.n.01
+    score_wn: 0.18181818181818182 score_sbert: 0.6323     score_ibrido: 0.9481
+
+  - def 11: A usually thick and tall (depending on the region) woody type of plant, this plant is mostly covered in bark and fetures a bit ammount of roots and branches and leaves on the bottom and the top respectively. The age is based on the number of circles in the log
+    lemmi : ['usually', 'thick', 'tall', 'depending', 'region', 'woody', 'type', 'plant', 'plant', 'mostly', 'covered', 'bark', 'fetures', 'bit', 'ammount', 'root', 'branch', 'leaf', 'bottom', 'top', 'respectively', 'age', 'based', 'number', 'circle', 'log']
+    genus : thick
+    predizione_wn: nan                            predizione_sbert: nan                            predizione_ibrido: nan
+    score_wn: nan        score_sbert: nan        score_ibrido: nan
+
+  - def 12: Plant with a woody trunk and leaves
+    lemmi : ['plant', 'woody', 'trunk', 'leaf']
+    genus : plant
+    predizione_wn: bignoniad.n.01                 predizione_sbert: tree.n.01                      predizione_ibrido: liana.n.01
+    score_wn: 0.3333333333333333 score_sbert: 0.6597     score_ibrido: 0.8586
+
+  - def 13: Organism covered in bark, leaves that cover the branches and at the base it has roots situated under the dirt
+    lemmi : ['organism', 'covered', 'bark', 'leaf', 'cover', 'branch', 'base', 'root', 'situated', 'dirt']
+    genus : organism
+    predizione_wn: alga.n.01                      predizione_sbert: volvaria_bombycina.n.01        predizione_ibrido: thallophyte.n.01
+    score_wn: 0.16666666666666666 score_sbert: 0.5501     score_ibrido: 0.8966
+
+  - def 14: plant with roots, branches, trunk and leaves
+    lemmi : ['plant', 'root', 'branch', 'trunk', 'leaf']
+    genus : plant
+    predizione_wn: parsnip.n.02                   predizione_sbert: tree.n.01                      predizione_ibrido: tree.n.01
+    score_wn: 0.25       score_sbert: 0.6034     score_ibrido: 0.9
+
+  - def 15: Complex terrestrial plant characterized by a woody trunk and apical branches on which leaves grow
+    lemmi : ['complex', 'terrestrial', 'plant', 'characterized', 'woody', 'trunk', 'apical', 'branch', 'leaf', 'grow']
+    genus : complex
+    predizione_wn: smelter.n.01                   predizione_sbert: brewery.n.01                   predizione_ibrido: brewery.n.01
+    score_wn: 0.08333333333333333 score_sbert: 0.415      score_ibrido: 0.9692
+
+  - def 16: Plant composed of leaves, branches and bark, in which the sap flows inside it
+    lemmi : ['plant', 'composed', 'leaf', 'branch', 'bark', 'sap', 'flow', 'inside']
+    genus : plant
+    predizione_wn: indian_lettuce.n.01            predizione_sbert: woody_plant.n.01               predizione_ibrido: flowering_maple.n.01
+    score_wn: 0.16666666666666666 score_sbert: 0.5611     score_ibrido: 0.8733
+
+  - def 17: Plant serveral years old, composed by a wooden log that usually splits into several branches. Depending on the season it might display flowers or leaves depending on the season
+    lemmi : ['plant', 'serveral', 'year', 'old', 'composed', 'wooden', 'log', 'usually', 'split', 'several', 'branch', 'depending', 'season', 'might', 'display', 'flower', 'leaf', 'depending', 'season']
+    genus : plant
+    predizione_wn: hoya.n.01                      predizione_sbert: indian_pipe.n.01               predizione_ibrido: indian_pipe.n.01
+    score_wn: 0.19047619047619047 score_sbert: 0.5228     score_ibrido: 0.825
+
+  - def 18: Woody plant covered with cortex. Has  branches, roots and leaves, it does the photosynthesis.
+    lemmi : ['woody', 'plant', 'covered', 'cortex', 'branch', 'root', 'leaf', 'photosynthesis']
+    genus : plant
+    predizione_wn: bignoniad.n.01                 predizione_sbert: tree.n.01                      predizione_ibrido: bignoniad.n.01
+    score_wn: 0.2        score_sbert: 0.571      score_ibrido: 0.9394
+
+  - def 19: It is a plant that extends in height, with a woody trunk at the base, at the top it estende with branches which in turn are composed of leaves.
+    lemmi : ['plant', 'extends', 'height', 'woody', 'trunk', 'base', 'top', 'estende', 'branch', 'turn', 'composed', 'leaf']
+    genus : plant
+    predizione_wn: tree.n.01                      predizione_sbert: tree.n.01                      predizione_ibrido: tree.n.01
+    score_wn: 0.18181818181818182 score_sbert: 0.629      score_ibrido: 1.0
+
+  - def 20: Understood as a living thing that sustains life by producing oxygen. It consists of a large vertical trunk rising from the ground, with roots at the base and a dense canopy of branches and leaves at the top.
+    lemmi : ['understood', 'living', 'thing', 'sustains', 'life', 'producing', 'oxygen', 'consists', 'large', 'vertical', 'trunk', 'rising', 'ground', 'root', 'base', 'dense', 'canopy', 'branch', 'leaf', 'top']
+    genus : living
+    predizione_wn: comforts.n.01                  predizione_sbert: subsistence.n.02               predizione_ibrido: eternal_life.n.01
+    score_wn: 0.043478260869565216 score_sbert: 0.4143     score_ibrido: 0.7911
+
+  - def 21: Is a woody plant capable of growing in height and is made up of branches and leaves.
+    lemmi : ['woody', 'plant', 'capable', 'growing', 'height', 'made', 'branch', 'leaf']
+    genus : plant
+    predizione_wn: cormous_plant.n.01             predizione_sbert: semi-climber.n.01              predizione_ibrido: tree.n.01
+    score_wn: 0.2222222222222222 score_sbert: 0.6601     score_ibrido: 0.8832
+
+  - def 22: a type of plant that generally have radix and branches with leaves.
+    lemmi : ['type', 'plant', 'generally', 'radix', 'branch', 'leaf']
+    genus : type
+    predizione_wn: breed.n.02                     predizione_sbert: nature.n.05                    predizione_ibrido: breed.n.02
+    score_wn: 0.14285714285714285 score_sbert: 0.4011     score_ibrido: 0.9505
+
+  - def 23: A type of plant that grows high and is made of hard wood and can present leaves and flowers.
+    lemmi : ['type', 'plant', 'grows', 'high', 'made', 'hard', 'wood', 'present', 'leaf', 'flower']
+    genus : type
+    predizione_wn: breed.n.02                     predizione_sbert: nature.n.05                    predizione_ibrido: breed.n.02
+    score_wn: 0.09090909090909091 score_sbert: 0.3831     score_ibrido: 0.9698
+
+  - def 24: Plant of generic dimensions, composed of branches, roots and leaves
+    lemmi : ['plant', 'generic', 'dimension', 'composed', 'branch', 'root', 'leaf']
+    genus : plant
+    predizione_wn: parsnip.n.02                   predizione_sbert: cultivar.n.01                  predizione_ibrido: indian_plantain.n.01
+    score_wn: 0.2        score_sbert: 0.582      score_ibrido: 0.8065
+
+  - def 25: (Classical definition) A woody structure of variable height, with a more or less robust trunk and leaves at the ends of the branches. (Computer science definition) A data structure where each node has zero, one, or two children. If there are no children, the node is called a leaf; otherwise, it is part of a branch.
+    lemmi : ['classical', 'definition', 'woody', 'structure', 'variable', 'height', 'less', 'robust', 'trunk', 'leaf', 'end', 'branch', 'computer', 'science', 'definition', 'data', 'structure', 'node', 'zero', 'one', 'two', 'child', 'child', 'node', 'called', 'leaf', 'otherwise', 'part', 'branch']
+    genus : classical
+    predizione_wn: symphony.n.01                  predizione_sbert: fugue.n.03                     predizione_ibrido: fugue.n.03
+    score_wn: 0.0        score_sbert: 0.1404     score_ibrido: 0.8
+
+  - def 26: Natural element that produces fruits or flower depending on the species, according ti the season
+    lemmi : ['natural', 'element', 'produce', 'fruit', 'flower', 'depending', 'specie', 'according', 'ti', 'season']
+    genus : natural
+    predizione_wn: nan                            predizione_sbert: nan                            predizione_ibrido: nan
+    score_wn: nan        score_sbert: nan        score_ibrido: nan
+
+============================================================
+* TEAPOT
+============================================================
+
+  - def 1: kitchen tool used to infuse tea leaves in boiling water, usually made of ceramic
+    lemmi : ['kitchen', 'tool', 'used', 'infuse', 'tea', 'leaf', 'boiling', 'water', 'usually', 'made', 'ceramic']
+    genus : kitchen
+    predizione_wn: kitchenette.n.01               predizione_sbert: kitchenette.n.01               predizione_ibrido: kitchenette.n.01
+    score_wn: 0.08333333333333333 score_sbert: 0.1749     score_ibrido: 1.0
+
+  - def 2: Metal container usually used for heating general liquids.
+    lemmi : ['metal', 'container', 'usually', 'used', 'heating', 'general', 'liquid']
+    genus : metal
+    predizione_wn: solder.n.01                    predizione_sbert: hard_solder.n.01               predizione_ibrido: solder.n.01
+    score_wn: 0.21428571428571427 score_sbert: 0.5122     score_ibrido: 0.9217
+
+  - def 3: Small container for liquids used to pour hot beverages in mugs and cups.      It is usually used to let decant and infuse leaves of tea.
+    lemmi : ['small', 'container', 'liquid', 'used', 'pour', 'hot', 'beverage', 'mug', 'cup', 'usually', 'used', 'let', 'decant', 'infuse', 'leaf', 'tea']
+    genus : small
+    predizione_wn: nan                            predizione_sbert: nan                            predizione_ibrido: nan
+    score_wn: nan        score_sbert: nan        score_ibrido: nan
+
+  - def 4: Tool used to make tea
+    lemmi : ['tool', 'used', 'make', 'tea']
+    genus : tool
+    predizione_wn: graver.n.01                    predizione_sbert: pallet.n.03                    predizione_ibrido: graver.n.01
+    score_wn: 0.4        score_sbert: 0.578      score_ibrido: 0.913
+
+  - def 5: recipient which has a pot-bellied shape with a handle beak and lid and contains tea on the inside
+    lemmi : ['recipient', 'potbellied', 'shape', 'handle', 'beak', 'lid', 'contains', 'tea', 'inside']
+    genus : recipient
+    predizione_wn: mandatary.n.01                 predizione_sbert: consignee.n.01                 predizione_ibrido: sendee.n.01
+    score_wn: 0.1        score_sbert: 0.3011     score_ibrido: 0.9431
+
+  - def 6: A container that can be used to store liquid tea and is usually used to pour tea into teacups.
+    lemmi : ['container', 'used', 'store', 'liquid', 'tea', 'usually', 'used', 'pour', 'tea', 'teacup']
+    genus : container
+    predizione_wn: vessel.n.03                    predizione_sbert: glass.n.02                     predizione_ibrido: vessel.n.03
+    score_wn: 0.3        score_sbert: 0.6918     score_ibrido: 0.9987
+
+  - def 7: container, often made of ceramic, which is intended to contain tea during serving and infusion
+    lemmi : ['container', 'often', 'made', 'ceramic', 'intended', 'contain', 'tea', 'serving', 'infusion']
+    genus : container
+    predizione_wn: skin.n.06                      predizione_sbert: tea_chest.n.01                 predizione_ibrido: sugar_spoon.n.01
+    score_wn: 0.23076923076923078 score_sbert: 0.5707     score_ibrido: 0.871
+
+  - def 8: Container, normally made of ceramic, used to heat water and prepare tea. Also used for table setting.
+    lemmi : ['container', 'normally', 'made', 'ceramic', 'used', 'heat', 'water', 'prepare', 'tea', 'also', 'used', 'table', 'setting']
+    genus : container
+    predizione_wn: dish.n.01                      predizione_sbert: vessel.n.03                    predizione_ibrido: dish.n.01
+    score_wn: 0.17647058823529413 score_sbert: 0.6731     score_ibrido: 0.9476
+
+  - def 9: Container useful for holding and pouring tee
+    lemmi : ['container', 'useful', 'holding', 'pouring', 'tee']
+    genus : container
+    predizione_wn: glass.n.02                     predizione_sbert: glass.n.02                     predizione_ibrido: glass.n.02
+    score_wn: 0.2857142857142857 score_sbert: 0.7353     score_ibrido: 1.0
+
+  - def 10: tool used to infuse herbs and spices to produce tea
+    lemmi : ['tool', 'used', 'infuse', 'herb', 'spice', 'produce', 'tea']
+    genus : tool
+    predizione_wn: graver.n.01                    predizione_sbert: pallet.n.03                    predizione_ibrido: graver.n.01
+    score_wn: 0.25       score_sbert: 0.5047     score_ibrido: 0.8632
+
+  - def 11: This type of kitchen tool is used to store, usually, really hot water with different kinds of dried leaves waiting to be poured in a countainer, it has an handle and a hole that help to pour the water
+    lemmi : ['type', 'kitchen', 'tool', 'used', 'store', 'usually', 'really', 'hot', 'water', 'different', 'kind', 'dried', 'leaf', 'waiting', 'poured', 'countainer', 'handle', 'hole', 'help', 'pour', 'water']
+    genus : type
+    predizione_wn: version.n.02                   predizione_sbert: nature.n.05                    predizione_ibrido: nature.n.05
+    score_wn: 0.08695652173913043 score_sbert: 0.2425     score_ibrido: 0.8091
+
+  - def 12: Container, usually made of ceramic or glass, used for serving tea or other infusions.
+    lemmi : ['container', 'usually', 'made', 'ceramic', 'glass', 'used', 'serving', 'tea', 'infusion']
+    genus : container
+    predizione_wn: cup.n.01                       predizione_sbert: vessel.n.03                    predizione_ibrido: cup.n.01
+    score_wn: 0.23076923076923078 score_sbert: 0.6693     score_ibrido: 0.9353
+
+  - def 13: Object used for serving thè
+    lemmi : ['object', 'used', 'serving', 'th']
+    genus : object
+    predizione_wn: marker.n.01                    predizione_sbert: scrap.n.03                     predizione_ibrido: point.n.07
+    score_wn: 0.25       score_sbert: 0.541      score_ibrido: 0.872
+
+  - def 14: tool used to prepare and hold tea, it is also used as home furnishings.
+    lemmi : ['tool', 'used', 'prepare', 'hold', 'tea', 'also', 'used', 'home', 'furnishing']
+    genus : tool
+    predizione_wn: wrench.n.03                    predizione_sbert: pallet.n.03                    predizione_ibrido: wrench.n.03
+    score_wn: 0.25       score_sbert: 0.5651     score_ibrido: 0.9208
+
+  - def 15: Ceramic or metal container used to hold or heat water for making tea
+    lemmi : ['ceramic', 'metal', 'container', 'used', 'hold', 'heat', 'water', 'making', 'tea']
+    genus : ceramic
+    predizione_wn: clinker.n.02                   predizione_sbert: firebrick.n.01                 predizione_ibrido: firebrick.n.01
+    score_wn: 0.07692307692307693 score_sbert: 0.3865     score_ibrido: 0.9059
+
+  - def 16: Container for liquids, usually tea, used to pour it into cups
+    lemmi : ['container', 'liquid', 'usually', 'tea', 'used', 'pour', 'cup']
+    genus : container
+    predizione_wn: vessel.n.03                    predizione_sbert: vessel.n.03                    predizione_ibrido: vessel.n.03
+    score_wn: 0.3333333333333333 score_sbert: 0.722      score_ibrido: 1.0
+
+  - def 17: Small jug provided with lid, usually made of clay or metal, used to infuse the leaves before pouring the liquid into the cups
+    lemmi : ['small', 'jug', 'provided', 'lid', 'usually', 'made', 'clay', 'metal', 'used', 'infuse', 'leaf', 'pouring', 'liquid', 'cup']
+    genus : small
+    predizione_wn: nan                            predizione_sbert: nan                            predizione_ibrido: nan
+    score_wn: nan        score_sbert: nan        score_ibrido: nan
+
+  - def 18: Container of various sizes to store liquids, generally used to make tea and other infusions.
+    lemmi : ['container', 'various', 'size', 'store', 'liquid', 'generally', 'used', 'make', 'tea', 'infusion']
+    genus : container
+    predizione_wn: vessel.n.03                    predizione_sbert: vessel.n.03                    predizione_ibrido: vessel.n.03
+    score_wn: 0.25       score_sbert: 0.7492     score_ibrido: 1.0
+
+  - def 19: a container for making tea or herbal teas, slightly rounded in shape, with a handle, a lid, and an elongated spout.
+    lemmi : ['container', 'making', 'tea', 'herbal', 'tea', 'slightly', 'rounded', 'shape', 'handle', 'lid', 'elongated', 'spout']
+    genus : container
+    predizione_wn: teapot.n.01                    predizione_sbert: teapot.n.01                    predizione_ibrido: teapot.n.01
+    score_wn: 0.21428571428571427 score_sbert: 0.6872     score_ibrido: 1.0
+
+  - def 20: A container of various shapes and materials, but featuring a spout, a handle and a lid. It is used to brew tea leaves or other ingredients.
+    lemmi : ['container', 'various', 'shape', 'material', 'featuring', 'spout', 'handle', 'lid', 'used', 'brew', 'tea', 'leaf', 'ingredient']
+    genus : container
+    predizione_wn: watering_can.n.01              predizione_sbert: teapot.n.01                    predizione_ibrido: watering_can.n.01
+    score_wn: 0.2222222222222222 score_sbert: 0.683      score_ibrido: 0.9824
+
+  - def 21: A container used mainly for infusions or herbal teas.
+    lemmi : ['container', 'used', 'mainly', 'infusion', 'herbal', 'tea']
+    genus : container
+    predizione_wn: receptacle.n.01                predizione_sbert: bathtub.n.01                   predizione_ibrido: receptacle.n.01
+    score_wn: 0.2222222222222222 score_sbert: 0.6609     score_ibrido: 0.9974
+
+  - def 22: a type of container with a lid, which is usually needed to serve tea or herbal tea.
+    lemmi : ['type', 'container', 'lid', 'usually', 'needed', 'serve', 'tea', 'herbal', 'tea']
+    genus : type
+    predizione_wn: breed.n.02                     predizione_sbert: nature.n.05                    predizione_ibrido: breed.n.02
+    score_wn: 0.1111111111111111 score_sbert: 0.2982     score_ibrido: 0.9844
+
+  - def 23: A container used to boil water in order to make and pour tea.
+    lemmi : ['container', 'used', 'boil', 'water', 'order', 'make', 'pour', 'tea']
+    genus : container
+    predizione_wn: watering_can.n.01              predizione_sbert: caldron.n.01                   predizione_ibrido: watering_can.n.01
+    score_wn: 0.21428571428571427 score_sbert: 0.689      score_ibrido: 0.9242
+
+  - def 24: Container usually used for containing and serving tea
+    lemmi : ['container', 'usually', 'used', 'containing', 'serving', 'tea']
+    genus : container
+    predizione_wn: cup.n.01                       predizione_sbert: tea_chest.n.01                 predizione_ibrido: bin.n.01
+    score_wn: 0.3        score_sbert: 0.657      score_ibrido: 0.9708
+
+  - def 25: An object usually made of ceramic used to contain hot liquids
+    lemmi : ['object', 'usually', 'made', 'ceramic', 'used', 'contain', 'hot', 'liquid']
+    genus : object
+    predizione_wn: natural_object.n.01            predizione_sbert: crystal.n.02                   predizione_ibrido: natural_object.n.01
+    score_wn: 0.18181818181818182 score_sbert: 0.3955     score_ibrido: 0.9257
+
+  - def 26: object for holding drinks, such as hot tea, useful for serving it more comfortably
+    lemmi : ['object', 'holding', 'drink', 'hot', 'tea', 'useful', 'serving', 'comfortably']
+    genus : object
+    predizione_wn: point.n.07                     predizione_sbert: bottleneck.n.02                predizione_ibrido: love.n.02
+    score_wn: 0.1111111111111111 score_sbert: 0.3692     score_ibrido: 0.8605
